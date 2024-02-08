@@ -1,2 +1,4 @@
 # Design-challenges-of-Autonomous-Driving-Vehicles
-This project seeks to address the critical issue of sensor fusion and other important design challenges in autonomous driving vehicles
+This report seeks to address the critical issue of sensor fusion and other important design challenges in autonomous driving vehicles
+
+In conclusion, the design of autonomous driving vehicles requires addressing the challenges of sensor fusion and integrating fuzzy rules. Sensor fusion ensures accurate perception of the environment, while fuzzy logic provides a framework to handle uncertainty and imprecision in decision-making. By addressing these challenges and leveraging the benefits of sensor fusion and fuzzy rules integration, autonomous vehicles can achieve safer, more efficient, and more intelligent navigation. Continued research and development in this field are essential for realizing the full potential of autonomous driving technology and revolutionizing the future of transportation.
